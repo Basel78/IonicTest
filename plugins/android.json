@@ -1,0 +1,55 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-browsertab": {
+      "PACKAGE_NAME": "com.ionicframework.spacefindermobileapp260912"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "com.ionicframework.spacefindermobileapp260912"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.ionicframework.spacefindermobileapp260912"
+    },
+    "cordova-plugin-image-picker": {
+      "PACKAGE_NAME": "com.ionicframework.spacefindermobileapp260912"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.ionicframework.spacefindermobileapp260912"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.ionicframework.spacefindermobileapp260912"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.ionicframework.spacefindermobileapp260912"
+    },
+    "ionic-plugin-deeplinks": {
+      "URL_SCHEME": "spacefinder",
+      "DEEPLINK_SCHEME": "https",
+      "DEEPLINK_HOST": "cognito-spacefinder.com",
+      "ANDROID_PATH_PREFIX": "/",
+      "ANDROID_2_PATH_PREFIX": "/",
+      "ANDROID_3_PATH_PREFIX": "/",
+      "ANDROID_4_PATH_PREFIX": "/",
+      "ANDROID_5_PATH_PREFIX": "/",
+      "DEEPLINK_2_SCHEME": " ",
+      "DEEPLINK_2_HOST": " ",
+      "DEEPLINK_3_SCHEME": " ",
+      "DEEPLINK_3_HOST": " ",
+      "DEEPLINK_4_SCHEME": " ",
+      "DEEPLINK_4_HOST": " ",
+      "DEEPLINK_5_SCHEME": " ",
+      "DEEPLINK_5_HOST": " ",
+      "PACKAGE_NAME": "com.ionicframework.spacefindermobileapp260912"
+    },
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.ionicframework.spacefindermobileapp260912"
+    }
+  },
+  "dependent_plugins": {}
+}
